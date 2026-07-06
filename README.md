@@ -1,4 +1,5 @@
-Aris and Kei official cursors converted to Xcursor format for Linux.
+### Aris and Kei official cursors converted to Xcursor format for Linux.
+
 (This not finished yet but i hope i'll finish it and add additional cursors.
 
 ![preview](https://dszw1qtcnsa5e.cloudfront.net/community/20260706/33448162-0a9b-4793-9bf7-e94350d89514/Aris.gif)
