@@ -1,7 +1,6 @@
 ### Aris and Kei official cursors converted to Xcursor format for Linux.
 
-(This not finished yet but i hope i'll finish it and add additional cursors.
-
+(This not finished yet but i hope i'll finish it and add additional cursors.)
 ## Installation
 
 Put the folders into `~/.icons`
