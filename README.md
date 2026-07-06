@@ -5,5 +5,7 @@ Aris and Kei official cursors converted to Xcursor format for Linux.
 
 ![preview](https://dszw1qtcnsa5e.cloudfront.net/community/20260706/e0e6cf66-de92-4688-a0a5-51c37b678dec/Kei.gif)
 
-All rights belong to the original creators. This is a fan-made conversion and is not affiliated with or endorsed by them.
+---
+
+All rights belong to the original creators(ΝΕΧΟN Korea Corporation. & NEXON Games Co., Ltd). This is a fan-made repository and is not affiliated with or endorsed by them.
 [Link](https://forum.nexon.com/bluearchiveTW/board_view?board=5598&thread=3493848)
